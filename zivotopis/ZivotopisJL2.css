@@ -14,15 +14,38 @@ section > div {
 	width: 70%;
 }
 
+body {
+	background-image: url("logo1.png");
+	margin-right: auto;
+	margin-left: auto;
+	min-width: 35rem;
+	max-width: 75rem; 
+}
+
+img {
+	padding-left: 12%;
+}
+
+h1 {
+	padding-right: 5%;
+	color: #238246;
+}
+
+h3 {
+	color: #025922;
+}
+
 table {
 	width: 80%;
 	text-align: center;
 }
 
 div.odkazy {
-	visibility: hidden;
+	text-align: center;
 }
 
 table {
 	border: double;
 }
+
+
